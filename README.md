@@ -1,6 +1,6 @@
 <h1 align="center">
   <p align="center"><a href="https://ebac-tech-talks-hazel-pi.vercel.app/">EBAC Tech Talks</a></p>
- <img width="500" src="https://media.giphy.com/media/blSTtZehjAZ8I/giphy.gif" alt="Dance Party Dancing">
+ <img width="600" src="https://media.giphy.com/media/LOJeUwhWT63DMEG7b9/giphy.gif" alt="Computer Technology GIF">
 </h1>
 <div style="display: inline_block">
   <div align="center">
